@@ -3,6 +3,7 @@
 # Usage: python TemplateParser.py -i <TemplateFileName> -c <ConfigFileName>
 # Description: This script takes in a template file which includes parameters enclosed in ${}
 #              and replaces them with the values in the config file.
+# Notes: The input template filename should have '_template' in the filename. 
 # Author: Binal 
 # =============================================================================================
 
